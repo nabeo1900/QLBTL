@@ -21,7 +21,7 @@
       <div class="container">
         <div class="row">
           <nav class="navbar navbar-light bg-light justify-content-between">
-            <h1 class="navbar-title">Quản lý danh sách bài tập lớn</h1>
+            <h1 class="navbar-title">Quản lý danh sách mon bài tập lớn</h1>
             <div class="search-box">
               <form class="search-form" action=""> <input class="form-control" placeholder="Search" type="text">
                 <button class="btn btn-link search-btn"> <i class="fa fa-search" aria-hidden="true"></i>
